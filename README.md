@@ -10,7 +10,7 @@ A data science project analyzing SpaceX launches using the SpaceX API. Includes 
 - `scripts/`: Python scripts for key functions.
 - `data/`: Cleaned datasets.
 - `presentation/`: PDF presentation.
-Here’s a professional **project summary** for your **SpaceX Launch Data Analysis**, ready for your portfolio or website:
+Here’s a professional **project summary** for **SpaceX Launch Data Analysis**.
 
 ### 🚀 SpaceX Launch Data Analysis
 
