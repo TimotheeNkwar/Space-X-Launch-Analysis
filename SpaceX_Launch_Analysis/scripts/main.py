@@ -83,4 +83,4 @@ if __name__ == "__main__":
     df = fetch_and_clean_data()
     plot_launches_per_year(df)
     model = train_model(df)
-    print("✅ Project setup complete.")
+    print("Project setup complete.")
